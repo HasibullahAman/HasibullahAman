@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasibullah Aman</h1>
 <h3 align="center">MERN Stack Developer and Web Developer with a passion for Deep Learning and Computer Vision projects from Afghanistan.</h3>
+<hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibullahaman" alt="hasibullahaman" /></a> </p>
 
 - 🔭 I’m currently working on [ATL(AI Enable Traffic 🚥)](https://github.com/HasibullahAman/AI-Enable-Traffic-Light.git)
