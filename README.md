@@ -18,3 +18,10 @@
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/~01292b5b876dd2115f](https://www.upwork.com/freelancers/~01292b5b876dd2115f)
 
 - ⚡ Fun fact **I have a tendency to compare my work to that of others**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasibullah-aman-9abab91b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasibullah-aman-9abab91b6/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18012878/hasibullah-aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18012878/hasibullah-aman" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/hasibullahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hasibullahaman" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/people/hasibullah-aman/100010821403865/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/hasibullah-aman/100010821403865/" height="30" width="40" /></a>
+</p>
